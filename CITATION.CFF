@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Juan 
+    given-names: Lopez
+    orcid: https://orcid.org/0009-0000-5752-3839
+title: "Drosophila-Giant-Fiber-Compartment-Model"
+version: 2.0.0
+identifiers:
+  - type: doi
+    value: 10.1101/2025.04.08.647628
+date-released: 2025-06-4
