@@ -4,7 +4,7 @@ Stimulate and record from the compartments that make up the modeled Giant Fibers
 
 # Paper
 This model accompanies the following paper: 
-[Frazzled/DCC regulates gap junction formation at a Drosophila giant synapse through transcription](https://www.biorxiv.org/content/10.1101/2023.05.02.539144v1).
+[Frazzled/DCC regulates gap junction formation at a Drosophila giant synapse](https://www.biorxiv.org/content/10.1101/2023.05.02.539144v1).
 It includes all code necessary to reproduce the data presented in Figure 5.
 
 # Usage
